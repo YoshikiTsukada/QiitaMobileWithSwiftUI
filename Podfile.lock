@@ -1,0 +1,20 @@
+PODS:
+  - HydraAsync (2.0.2)
+  - SwiftyJSON (4.3.0)
+
+DEPENDENCIES:
+  - HydraAsync
+  - SwiftyJSON (~> 4.0)
+
+SPEC REPOS:
+  trunk:
+    - HydraAsync
+    - SwiftyJSON
+
+SPEC CHECKSUMS:
+  HydraAsync: 690b8c1c9dcde7ee1093cee363a6c1ce36b56a83
+  SwiftyJSON: 6faa0040f8b59dead0ee07436cbf76b73c08fd08
+
+PODFILE CHECKSUM: 36ef1e2c5b57596fea8c1b103cc007089aa17f53
+
+COCOAPODS: 1.9.1
